@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://blog.gethin.online/reveal"
 languageCode = "en-us"
 title = "GETHIN'S HUGO REVEAL"
 
@@ -13,6 +13,6 @@ mediaType = "text/html"
 isHTML = true
 
 [params.reveal_hugo]
-theme = "solarized"
+theme = "blood"
 
 
